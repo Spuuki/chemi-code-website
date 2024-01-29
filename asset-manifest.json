@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/chemi-code-website/static/css/main.f855e6bc.css",
-    "main.js": "/chemi-code-website/static/js/main.02d0b74f.js",
+    "main.js": "/chemi-code-website/static/js/main.9438b32f.js",
     "static/js/787.9d769e2d.chunk.js": "/chemi-code-website/static/js/787.9d769e2d.chunk.js",
     "static/media/logo.svg": "/chemi-code-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chemi-code-website/index.html",
     "main.f855e6bc.css.map": "/chemi-code-website/static/css/main.f855e6bc.css.map",
-    "main.02d0b74f.js.map": "/chemi-code-website/static/js/main.02d0b74f.js.map",
+    "main.9438b32f.js.map": "/chemi-code-website/static/js/main.9438b32f.js.map",
     "787.9d769e2d.chunk.js.map": "/chemi-code-website/static/js/787.9d769e2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.02d0b74f.js"
+    "static/js/main.9438b32f.js"
   ]
 }
