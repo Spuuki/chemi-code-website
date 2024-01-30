@@ -12,5 +12,12 @@
     ```
     npm start
     ```
+3) Git commands:
+
+    ```
+    git add .
+    git commit -m "commit name"
+    git commit origin main
+    ```
     
 **Note: be sure to be in the repository directory**
